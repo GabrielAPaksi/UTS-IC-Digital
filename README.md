@@ -17,3 +17,5 @@ Kabel modul	Pindah
 STB	P47 (baris atas, di sebelah GND)
 CLK	P2 (baris atas)
 DIO	P3 (baris bawah, tepat di bawah P2)
+
+Mohon maaf, saya tidak berhasil membuat ketentuan ketiga, yaitu geser bolak-balik tiap 1 detik. Selain itu, ada di video.
